@@ -2,10 +2,10 @@
 
 ## Informasi Mahasiswa
 
-**Nama**: [Isi Nama Lengkap Anda]  
-**NIM**: [Isi NIM Anda]  
-**Mata Kuliah**: [Nama Mata Kuliah]  
-**Dosen**: [Nama Dosen]
+**Nama**: Muhammad Yusuf  
+**NIM**: 122140193  
+**Mata Kuliah**: Pengembangan Aplikasi Web RA  
+**Dosen**: Muhammad Habib Algifari, S.Kom., M.TI.
 
 ---
 
@@ -212,21 +212,8 @@ Aplikasi ini menunjukkan integrasi antara multiple AI services, modern web frame
 
 ---
 
-## Video Demo
+**Tanggal Pengumpulan**: [07/12/2025]
 
-🎥 **Link Video Demo**: [Paste link YouTube/Google Drive]
+**Contribute by**:
 
-> **Catatan**: Video demo menunjukkan:
-> - Input review dalam bahasa Indonesia
-> - Sentiment analysis results
-> - Key points extraction
-> - Review history
-> - Dark/light mode toggle
-
----
-
-**Tanggal Pengumpulan**: [DD/MM/YYYY]
-
-**Tanda Tangan**:
-
-[Digital signature atau nama]
+Muhammad Yusuf
