@@ -4,7 +4,11 @@ Aplikasi web untuk menganalisis product review menggunakan AI. Aplikasi ini meng
 
 ## 📸 Screenshots
 
+Display all apps
 ![Screenshot](./assets/screenshot-website.png)
+
+After submit the form
+![Screenshot](./assets/image.png)
 
 ## ✨ Features
 
